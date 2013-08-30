@@ -1,4 +1,4 @@
-Title: 1st post
+Title: Visualization notes from Ma's presentation
 Date: 2013-08-30 17:55
 Category: visualization
 Slug: 1st-post
